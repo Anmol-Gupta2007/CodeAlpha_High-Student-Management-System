@@ -1,1 +1,1 @@
-# CodeAlpha_Student-Management-System
+# CodeAlpha_High-Student-Management-System
